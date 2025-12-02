@@ -19,5 +19,6 @@ for и in range(3):
 
 print(table)
 
-plt.bar(products, pay)
+plt.bar(products, pay, color="green")
 plt.show()
+
